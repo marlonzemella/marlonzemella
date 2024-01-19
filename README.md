@@ -12,6 +12,8 @@
  ## ☕ Linguagens 
   Atualmente estudo e domino as seguintes linguagens:</br>
   ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  
 
  ## 🧰 Ferramentas 
   Atualmente eu uso as seguintes ferramentas para meus projetos: </br>
