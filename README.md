@@ -5,7 +5,7 @@
   
 ## <p align="left"> 
   Olá, espero que você esteja bem! </br>
-  Eu me chamo Marlon Zemella, atualmente eu estudo para no futuro ser um <strong>Desenvolvedor BackEnd</strong></br>
+  Eu me chamo Marlon Zemella, tenho 18 anos e atualmente eu trabalho como <strong>Desenvolvedor BackEnd</strong> freelancer</br>
   Aqui será enviado alguns de meus projetos para poder acompanhar minha evolução em meus estudos e quem sabe constribuir no estudo de alguém. <br>
 </p>
 
