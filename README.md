@@ -29,6 +29,7 @@
   Já tive experiencia com as seguintes SOs: </br>
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-35495E?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0)
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
 
  ## 📶 Contatos
   Aqui estão algumas formas de entrar em contato comigo: </br>
