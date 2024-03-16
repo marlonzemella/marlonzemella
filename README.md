@@ -41,7 +41,7 @@
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:contatomarlon@proton.me)
 
  ## 🎯 Git Hub Stats
- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marlonzemella" alt="marlonzemella" /></a> </p>
+ ![](https://github-profile-trophy.vercel.app/?username=marlonzemella&theme=github_dark)
   | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marlonzemella&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=marlonzemella&theme=github_dark) |
 | :-: | :-: |
 </p>  
