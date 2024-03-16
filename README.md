@@ -4,9 +4,9 @@
  
   
 ## <p align="left"> 
-  Olá, espero que você esteja bem! </br>
-  Eu me chamo Marlon Zemella, tenho 18 anos e atualmente eu trabalho como <strong>Desenvolvedor BackEnd</strong> freelancer</br>
-  Aqui será enviado alguns de meus projetos para poder acompanhar minha evolução em meus estudos e quem sabe constribuir no estudo de alguém. <br>
+  Olá, me chamo Marlon Zemella e sou um programador back-end apaixonado por programação,
+  aqui em meu github irei postar alguns projetos meus, para poder ver minha evolução
+  e quem sabe ajudar no projeto de outros amantes de programação.<br>
 </p>
 
  ## ☕ Linguagens 
