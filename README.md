@@ -1,8 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marlonzemella&label=Profile%20views&color=0e75b6&style=flat" alt="marlonzemella" /> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marlonzemella&show_icons=true&locale=pt-br" alt="marlonzemella" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marlonzemella&" alt="marlonzemella" /></p>
-
 <p align="left">
  
   
@@ -44,6 +41,8 @@
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:contatomarlon@proton.me)
 
  ## 🎯 Git Hub Stats 
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marlonzemella&show_icons=true&locale=pt-br" alt="marlonzemella" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marlonzemella&" alt="marlonzemella" /></p>
   | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marlonzemella&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=marlonzemella&theme=github_dark) |
 | :-: | :-: |
 </p>  
