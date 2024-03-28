@@ -33,7 +33,6 @@
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:marlonzemella@vk.com)
 
  ## 🎯 Git Hub Stats
- ![](https://github-profile-trophy.vercel.app/?username=marlonzemella&theme=github_dark)
   | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marlonzemella&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=marlonzemella&theme=github_dark) |
 | :-: | :-: |
 </p>  
