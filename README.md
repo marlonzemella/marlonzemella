@@ -4,9 +4,9 @@
  
   
 ## <p align="left"> 
-  Olá, me chamo Marlon Zemella e sou um programador back-end apaixonado por programação,
-  aqui em meu github irei postar alguns projetos meus, para poder ver minha evolução
-  e quem sabe ajudar no projeto de outros amantes de programação.<br>
+  Hello, my name is Marlon Zemella and I am a back-end programmer passionate about programming,
+     Here on my github I will post some of my projects, so you can see my evolution
+     and who knows how to help other programming lovers with their projects.<br>
 </p>
 
  ## ☕ Development Skills
@@ -23,12 +23,8 @@
   ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-35495E?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
   ![CentOS](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white)
-  ![PowerShel](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-  
-  
-  
+  ![PowerShell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
   
  ## 📶 Contatos
   Aqui estão algumas formas de entrar em contato comigo: </br>
