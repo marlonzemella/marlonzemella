@@ -30,7 +30,7 @@
   Aqui estão algumas formas de entrar em contato comigo: </br>
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://https://discord.com/channels/@marlonzemella/)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marlonzemella/)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:contatomarlon@proton.me)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:marlonzemella@vk.com)
 
  ## 🎯 Git Hub Stats
  ![](https://github-profile-trophy.vercel.app/?username=marlonzemella&theme=github_dark)
