@@ -10,13 +10,13 @@
 </p>
 
  ## ☕ Development Skills
-  ![Lua](https://img.shields.io/badge/Lua-000?style=for-the-badge&logo=lua&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=white)
-  ![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=csharp&logoColor=white)
-  ![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)
-  ![JSON](https://img.shields.io/badge/json-000?style=for-the-badge&logo=json&logoColor=white)
-  ![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma&logoColor=figma)
+  ![Lua](https://img.shields.io/badge/Lua-000?style=for-the-badge&logo=lua&logoColor=2CA5E0)
+  ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=2CA5E0)
+  ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=2CA5E0)
+  ![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=csharp&logoColor=2CA5E0)
+  ![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=2CA5E0)
+  ![JSON](https://img.shields.io/badge/json-000?style=for-the-badge&logo=json&logoColor=2CA5E0)
+  ![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma&logoColor=2CA5E0)
 
   ## 💽 Operational systems
   ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
@@ -27,7 +27,7 @@
   ## ✍🏻️ IDEs
   ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-000?style=for-the-badge&logo=visual%20studio%20code&logoColor=2CA5E0)
   ![Visual Studio](https://img.shields.io/badge/Visual_Studio-000?style=for-the-badge&logo=visual%20studio&logoColor=2CA5E0)
-  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=2CA5E0)
+  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000.svg?style=for-the-badge&logo=intellij-idea&logoColor=2CA5E0)
 
   ## 💾 Others
   ![CloudFlare](https://img.shields.io/badge/Cloudflare-000?style=for-the-badge&logo=Cloudflare&logoColor=white)
