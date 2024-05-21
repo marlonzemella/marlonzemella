@@ -30,9 +30,9 @@
   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000.svg?style=for-the-badge&logo=intellij-idea&logoColor=2CA5E0)
 
   ## 💾 Others
-  ![CloudFlare](https://img.shields.io/badge/Cloudflare-000?style=for-the-badge&logo=Cloudflare&logoColor=white)
-  ![Nginx](https://img.shields.io/badge/Nginx-000?style=for-the-badge&logo=nginx&logoColor=white)
-  ![PowerShell](https://img.shields.io/badge/powershell-000?style=for-the-badge&logo=powershell&logoColor=white)
+  ![CloudFlare](https://img.shields.io/badge/Cloudflare-000?style=for-the-badge&logo=Cloudflare&logoColor=f48120)
+  ![Nginx](https://img.shields.io/badge/Nginx-000?style=for-the-badge&logo=nginx&logoColor=f48120)
+  ![PowerShell](https://img.shields.io/badge/powershell-000?style=for-the-badge&logo=powershell&logoColor=2CA5E0)
   
  ## 📶 Contact
   Aqui estão algumas formas de entrar em contato comigo: </br>
