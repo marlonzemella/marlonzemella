@@ -31,7 +31,7 @@
 
   ## 💾 Others
   ![CloudFlare](https://img.shields.io/badge/Cloudflare-000?style=for-the-badge&logo=Cloudflare&logoColor=f48120)
-  ![Nginx](https://img.shields.io/badge/Nginx-000?style=for-the-badge&logo=nginx&logoColor=f48120)
+  ![Nginx](https://img.shields.io/badge/Nginx-000?style=for-the-badge&logo=nginx&logoColor=108f2b)
   ![PowerShell](https://img.shields.io/badge/powershell-000?style=for-the-badge&logo=powershell&logoColor=2CA5E0)
   
  ## 📶 Contact
