@@ -25,14 +25,14 @@
   ![CentOS](https://img.shields.io/badge/Cent%20OS-000?style=for-the-badge&logo=CentOS&logoColor=2CA5E0)
 
   ## ✍🏻️ IDEs
-  ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=2CA5E0)
-  ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=2CA5E0)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-000?style=for-the-badge&logo=visual%20studio%20code&logoColor=2CA5E0)
+  ![Visual Studio](https://img.shields.io/badge/Visual_Studio-000?style=for-the-badge&logo=visual%20studio&logoColor=2CA5E0)
   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=2CA5E0)
 
   ## 💾 Others
-  ![CloudFlare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-  ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-  ![PowerShell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+  ![CloudFlare](https://img.shields.io/badge/Cloudflare-000?style=for-the-badge&logo=Cloudflare&logoColor=white)
+  ![Nginx](https://img.shields.io/badge/Nginx-000?style=for-the-badge&logo=nginx&logoColor=white)
+  ![PowerShell](https://img.shields.io/badge/powershell-000?style=for-the-badge&logo=powershell&logoColor=white)
   
  ## 📶 Contact
   Aqui estão algumas formas de entrar em contato comigo: </br>
