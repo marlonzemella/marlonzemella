@@ -15,7 +15,6 @@
   ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=2CA5E0)
   ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=2CA5E0)
  
-  ![Arduino](https://img.shields.io/badge/Arduino-000?style=for-the-badge&logo=Arduino&logoColor=2CA5E0)
   ![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=2CA5E0) 
   ![JSON](https://img.shields.io/badge/json-000?style=for-the-badge&logo=json&logoColor=2CA5E0)
   ![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma&logoColor=2CA5E0)
