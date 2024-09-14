@@ -10,8 +10,8 @@
 </p>
 
  ## ☕ Development Skills
-  [![Lua](https://img.shields.io/badge/Lua-000?style=for-the-badge&logo=lua&logoColor=2CA5E0)](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-  [![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=csharp&logoColor=2CA5E0)](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+  [![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+  [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
  
   ![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=2CA5E0) 
   ![JSON](https://img.shields.io/badge/json-000?style=for-the-badge&logo=json&logoColor=2CA5E0)
