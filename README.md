@@ -4,8 +4,7 @@
  
   
 ## <p align="left"> 
-  Hello, my name is Marlon Zemella, \n
-  I'm a back-end programmer with a passion for the LUA language and enthusiasm for everything related to technology.<br>
+  Hello, my name is Marlon Zemella, I'm a back-end programmer with a passion for the LUA language and enthusiasm for everything related to technology.<br>
 </p>
 
  ## ☕ Development Skills
