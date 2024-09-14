@@ -10,12 +10,12 @@
 </p>
 
  ## ☕ Development Skills
-  ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-  ![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=2CA5E0) 
-  ![JSON](https://img.shields.io/badge/json-000?style=for-the-badge&logo=json&logoColor=2CA5E0)
-  ![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma&logoColor=2CA5E0)
-  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Lua](https://img.shields.io/badge/Lua-00000F?style=for-the-badge&logo=lua&logoColor=2CA5E0)
+  ![C#](https://img.shields.io/badge/C%23-00000F?style=for-the-badge&logo=c-sharp&logoColor=2CA5E0)
+  ![SQLite](https://img.shields.io/badge/SQLite-00000F?style=for-the-badge&logo=sqlite&logoColor=2CA5E0) 
+  ![JSON](https://img.shields.io/badge/json-00000F?style=for-the-badge&logo=json&logoColor=2CA5E0)
+  ![Figma](https://img.shields.io/badge/Figma-00000F?style=for-the-badge&logo=figma&logoColor=2CA5E0)
+  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=2CA5E0)
   
 
   ## 💽 Operational systems
