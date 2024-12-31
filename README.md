@@ -4,7 +4,7 @@
  
   
 ## <p align="left"> 
-  Hello, my name is Marlon Zemella, I'm a back-end programmer with a passion for the LUA language and enthusiasm for everything related to technology.<br>
+  Hello! My name is Marlon Zemella, but you can just call me Marlon. I'm a backend programmer and passionate about the Lua language. I always prioritize security, optimization and organization in all my projects.<br>
 </p>
 
  ## ☕ Skills
