@@ -7,7 +7,7 @@
   Hello! My name is Marlon Zemella, but you can just call me Marlon. I'm a backend programmer and passionate about the Lua language. I always prioritize security, optimization and organization in all my projects.<br>
 </p>
 
- ## ☕ Skills
+ ## ☕ Technologies
   ![Lua](https://img.shields.io/badge/Lua-00000F?style=for-the-badge&logo=lua&logoColor=2CA5E0)
   ![C#](https://img.shields.io/badge/C%23-00000F?style=for-the-badge&logo=c-sharp&logoColor=2CA5E0)
   ![SQLite](https://img.shields.io/badge/SQLite-00000F?style=for-the-badge&logo=sqlite&logoColor=2CA5E0) 
