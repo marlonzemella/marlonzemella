@@ -16,6 +16,7 @@
   ![SQLite](https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite3.svg) 
   ![MySQL](https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql1.svg)
   ![Nginx](https://ziadoua.github.io/m3-Markdown-Badges/badges/NGINX/nginx1.svg)
+  ![Node.js](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg)
 
   ## 💽 Operating systems I work with
   ![Windows](https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows1.svg)
