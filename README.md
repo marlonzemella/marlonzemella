@@ -10,7 +10,6 @@
  ## ☕ Languages && Technologies
   ![Lua](https://ziadoua.github.io/m3-Markdown-Badges/badges/Lua/lua1.svg)
   ![C#](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp1.svg)
-  ![C#](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp1.svg)
   ![JavaScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg)
   ![Python](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg)
   
