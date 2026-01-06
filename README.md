@@ -7,12 +7,16 @@
   Hello! My name is Marlon Zemella, but you can just call me Marlon. I'm a backend programmer and passionate about the Lua language. I always prioritize security, optimization and organization in all my projects.<br>
 </p>
 
- ## ☕ Technologies
-  ![Lua](https://img.shields.io/badge/Lua-00000F?style=for-the-badge&logo=lua&logoColor=2CA5E0)
-  ![C#](https://img.shields.io/badge/C%23-00000F?style=for-the-badge&logo=c-sharp&logoColor=2CA5E0)
-  ![SQLite](https://img.shields.io/badge/SQLite-00000F?style=for-the-badge&logo=sqlite&logoColor=2CA5E0) 
-  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=2CA5E0)
-  ![Nginx](https://img.shields.io/badge/Nginx-000?style=for-the-badge&logo=nginx&logoColor=2CA5E0)
+ ## ☕ Languages && Technologies
+  ![Lua](https://ziadoua.github.io/m3-Markdown-Badges/badges/Lua/lua1.svg)
+  ![C#](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp1.svg)
+  ![C#](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp1.svg)
+  ![JavaScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg)
+  ![Python](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg)
+  
+  ![SQLite](https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite3.svg) 
+  ![MySQL](https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql1.svg)
+  ![Nginx](https://ziadoua.github.io/m3-Markdown-Badges/badges/NGINX/nginx1.svg)
 
   ## 💽 Operational systems
   ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
