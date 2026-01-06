@@ -18,10 +18,10 @@
   ![MySQL](https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql1.svg)
   ![Nginx](https://ziadoua.github.io/m3-Markdown-Badges/badges/NGINX/nginx1.svg)
 
-  ## 💽 Operational systems
-  ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
-  ![Ubuntu](https://img.shields.io/badge/Ubuntu-000?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0)
-  ![CentOS](https://img.shields.io/badge/Cent%20OS-000?style=for-the-badge&logo=CentOS&logoColor=2CA5E0)
+  ## 💽 Operating systems I work with
+  ![Windows](https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows1.svg)
+  
+  ![Linux](https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg)
   
  ## 📶 Contact
   Here are some ways to get contact with me: </br>
