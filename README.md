@@ -4,7 +4,7 @@
  
   
 ## <p align="left"> 
-  Hello! My name is Marlon Zemella, but you can just call me Marlon. I'm a backend programmer and passionate about the Lua language. I always prioritize security, optimization and organization in all my projects.<br>
+  Hello! My name is Marlon, but you can just call me Marlon. I'm a backend programmer and passionate about the Lua language. I always prioritize security, optimization and organization in all my projects.<br>
 </p>
 
  ## ☕ Languages && Technologies
